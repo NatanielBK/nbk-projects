@@ -18,6 +18,11 @@ Kliknij i zobacz na żywo:
 | Elektryk | [WRC Elektryk](https://wrc-elektryk-nbkprojects.pages.dev) | Gliwice |
 | Groomer i hotel dla psów | [Psiumple](https://psiumple-nbkprojects.pages.dev) | Gliwice |
 | Wulkanizacja | [Serwis Ogumienia Dzikowski](https://serwis-dzikowski-nbkprojects.pages.dev) | Gliwice |
+| Kwiaciarnia | [Kwiaciarnia u Beaty](https://kwiaciarnia-u-beaty-nbkprojects.pages.dev) | Tarnowskie Góry |
+| Stylizacja paznokci | [HOLO Patrycja Harwig](https://holo-paznokcie-nbkprojects.pages.dev) | Tarnowskie Góry |
+| Wulkanizacja | [WulkanizacjaTG](https://wulkanizacjatg-nbkprojects.pages.dev) | Tarnowskie Góry |
+| Groomer | [Futerkownia — salon dla zwierząt](https://futerkownia-groomer-nbkprojects.pages.dev) | Zabrze |
+| Detailing i myjnia | [Premium Pure Detailing](https://premium-pure-detailing-nbkprojects.pages.dev) | Zabrze |
 
 Projekty pokazowe przygotowane z własnej inicjatywy. Nie są oficjalnymi stronami tych firm.
 
