@@ -23,6 +23,9 @@ Kliknij i zobacz na żywo:
 | Wulkanizacja | [WulkanizacjaTG](https://wulkanizacjatg-nbkprojects.pages.dev) | Tarnowskie Góry |
 | Groomer | [Futerkownia — salon dla zwierząt](https://futerkownia-groomer-nbkprojects.pages.dev) | Zabrze |
 | Detailing i myjnia | [Premium Pure Detailing](https://premium-pure-detailing-nbkprojects.pages.dev) | Zabrze |
+| Piekarnia i cukiernia | [Dolnicki Piekarnia Cukiernia](https://dolnicki-piekarnia-nbkprojects.pages.dev) | Tarnowskie Góry |
+| Fryzjer włosów kręconych | [Curly me](https://curlyme-nbkprojects.pages.dev) | Tarnowskie Góry |
+| Wulkanizacja | [Wulkanizacja Ciorga](https://ciorga-wulkanizacja-nbkprojects.pages.dev) | Zabrze |
 
 Projekty pokazowe przygotowane z własnej inicjatywy. Nie są oficjalnymi stronami tych firm.
 
